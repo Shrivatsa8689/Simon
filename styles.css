@@ -1,0 +1,49 @@
+body 
+{
+    text-align: center;
+    background-color: #011F3F;
+}
+  
+button
+{
+    width: 200px;
+    height: 200px;
+    border-radius: 30%;
+}
+
+.ashish
+{
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 1000px;
+    border-color: black;
+}
+
+#red{
+    background-color: red;
+}
+#yellow
+{
+    background-color: yellow;
+}
+
+#green
+{
+    background-color: green;
+}
+
+#coral
+{
+    background-color: coral;
+}
+
+.pressed
+{
+    box-shadow: 0 3px 4px 0 #DBEDF3;
+    opacity: 0.5;
+}
+
+.game-over {
+    background-color: red;
+    opacity: 0.8;
+  }
